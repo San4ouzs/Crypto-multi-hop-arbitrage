@@ -1,0 +1,4 @@
+ccxt>=4.3.90
+python-dotenv>=1.0.1
+pandas>=2.2.2
+requests>=2.32.3
